@@ -1,0 +1,19 @@
+h1 {
+  font-display: flex;
+  padding: 20px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  background-color: lightseagreen;
+  color: white;
+  text-align: center;
+}
+
+ul {
+  list-style: none;
+  text-align: center;
+  color: gray;
+}
+
+li {
+  display: inline-block;
+  color: gray;
+}
