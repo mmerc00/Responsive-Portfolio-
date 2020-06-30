@@ -10,6 +10,10 @@
       integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk"
       crossorigin="anonymous"
     />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap"
+      rel="stylesheet"
+    />
     <link rel="stylesheet" href="style.css" />
     <meta
       name="viewport"
@@ -17,9 +21,55 @@
     />
   </head>
 
-  <header>
-    <h1>Melissa Mercado</h1>
-  </header>
+  <body>
+    <header>
+      <nav class="navbar Melissa Mercado-light bg-light">
+        <span class="navbar-brand mb-0 h1">Melissa Mercado</span>
+        <ul>
+          <li>
+            <a href="index.html" alt="About">About</a>
+          </li>
+          <li>
+            <a href="portfolio.html" alt="Portfolio">Portfolio</a>
+          </li>
+          <li>
+            <a href="contact.html" alt="Contact">Contact</a>
+          </li>
+        </ul>
+      </nav>
+    </header>
 
-  <body></body>
+    <!--added this contact form and customized it-->
+
+    <div class="container1">
+      <h1>Contact</h1>
+      <hr>
+      <div class="form-group">
+        <label for="exampleFormControlInput1">Name</label>
+        <input
+          type="name"
+          class="form-control"
+          id="exampleFormControlInput1"
+        />
+        <div class="form-group">
+          <label for="exampleFormControlInput1">Email address</label>
+          <input
+            type="email"
+            class="form-control"
+            id="exampleFormControlInput1"
+            placeholder="name@example.com"
+          />
+      
+      <div class="form-group">
+        <label for="exampleFormControlTextarea1">Send something my way!</label>
+        <textarea
+          class="form-control"
+          id="exampleFormControlTextarea1"
+          
+        ></textarea>
+      <button type="submit" class="btn btn-primary mb-2">
+        Submit
+      </button>
+    </div>
+  </body>
 </html>
