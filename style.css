@@ -10,6 +10,10 @@ nav {
   color: black;
   text-align: center;
 }
+.nav-link {
+  color: black;
+}
+
 body {
   background-color: lightgrey;
 }
@@ -57,4 +61,18 @@ h2 {
   margin-top: 50px;
   padding: 10px;
   border-style: double;
+}
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: red;
+  color: white;
+  text-align: center;
+}
+
+.card-deck {
+  margin-top: 30px;
 }
