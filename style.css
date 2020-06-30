@@ -33,11 +33,28 @@ li {
   margin: auto;
   background-color: white;
   margin-top: 50px;
+  padding: 10px;
+  border-style: double;
 }
+
 h1 {
-  color: gray;
+  color: lightskyblue;
 }
 
 .card2 {
   margin: auto;
+  margin-top: 150px;
+}
+
+h2 {
+  color: lightskyblue;
+}
+
+.container {
+  width: 60%;
+  margin: auto;
+  background-color: white;
+  margin-top: 50px;
+  padding: 10px;
+  border-style: double;
 }
