@@ -6,7 +6,7 @@ nav {
   font-display: flex;
   padding: 20px;
   font-family: Georgia, "Times New Roman", Times, serif;
-  background-color: white;
+  background-color: #b2ad92;
   color: black;
   text-align: center;
 }
@@ -15,7 +15,7 @@ nav {
 }
 
 body {
-  background-color: lightgrey;
+  background-color: #cac5a7;
 }
 
 ul {
@@ -42,7 +42,7 @@ li {
 }
 
 h1 {
-  color: lightskyblue;
+  color: #b54d30;
 }
 
 .card2 {
@@ -51,7 +51,7 @@ h1 {
 }
 
 h2 {
-  color: lightskyblue;
+  color: #b54d30;
 }
 
 .container {
@@ -78,4 +78,8 @@ h2 {
 
 #row1 {
   margin: 10vh;
+}
+.pcard {
+  margin-right: 30px;
+  margin-left: 30px;
 }

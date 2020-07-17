@@ -1,3 +1,13 @@
+<img src=Assets/newportfolio.png>
+
+-fixed cards in portofolio page
+
+-added more colors
+
+-added photo of project one
+
+INIT COMMENTS
+
 1.Added index(about me), contact and contact html linked all of them together by hrefs
 
 2.All pages share nav and footer tag (provided by Bootstrap)
@@ -13,7 +23,3 @@
 6.Footer added to each html
 
 Hr function was used to create lines
-
--fixed conatiners in portofolio page
-
--added more colors
