@@ -12,4 +12,8 @@
 
 6.Footer added to each html
 
-7 Hr function was used to create lines
+Hr function was used to create lines
+
+-fixed conatiners in portofolio page
+
+-added more colors
