@@ -1,5 +1,23 @@
-# Original Portfolio 
+<img src=Assets/newportfolio.png>
 
-## Technologies Used
-HTML 
-CSS
+
+# Original Portfolio
+
+
+## Built With
+
+- VS CODE
+- Chrome
+- HTML
+- CSS
+- GitHub
+
+## Authors
+
+Melissa Mercado
+
+## Acknowledgements
+
+- Cammryne Sullivan
+- James Rowe
+
