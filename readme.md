@@ -1,6 +1,5 @@
 # Original Portfolio 
 
 ## Technologies Used
--- HTML 
--- CSS
--- GitHub 
+HTML 
+CSS
